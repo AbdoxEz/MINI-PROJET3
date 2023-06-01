@@ -15,10 +15,7 @@ body{
 
 
 header{
-    position: relative;
-    background: url(/bg-hero-desktop.jpg);
-    background-size: cover;
-    background-position: center;
+    position: fixed;
     top: 0%;
     right: 0%;
     width: 100%;
